@@ -12,7 +12,7 @@ qwerty
 ## Images
 
 1. rain
-- ![click for image](https://github.com/Nishanthreddy1997/-1-repository/blob/master/RAIN.jpg)
+- ![rain image](https://github.com/Nishanthreddy1997/-1-repository/raw/master/RAIN.jpg "simple")
 
 2. Autumn
-- ![click for image](https://github.com/Nishanthreddy1997/-1-repository/blob/master/autumn.jpeg)
+- ![autumn image](https://github.com/Nishanthreddy1997/-1-repository/raw/master/autumn.jpeg "ojk")
